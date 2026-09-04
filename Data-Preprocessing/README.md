@@ -85,9 +85,7 @@ df.isnull().mean() * 100
 
 Formula:
 
-\[ `\text{Missing Percentage}`{=tex} =
-`\frac{\text{Number of Missing Values}}`{=tex}
-{`\text{Total Number of Values}`{=tex}} `\times 100`{=tex} \]
+Missing Percentage = (Number of Missing Values / Total Number of Values) × 100
 
 ### Display rows containing missing values
 
